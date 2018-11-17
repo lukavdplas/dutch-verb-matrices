@@ -5,7 +5,7 @@
 import process-phrase
 
 #pathnames
-corpuspath = './RELPRON/RELPRON/translation_basic.txt'
+corpuspath = './repron_translation.txt'
 outpath = 'verb-stems-list.txt'
 
 #import copus
