@@ -2,10 +2,10 @@
 Code used to train verb matrices for use in compositional distributional semantics, created for my thesis in BA Linguistics.
 
 The verb matrices are trained to use the embeddings created by Tulkens, Emmery & Daelemans (2016) as noun vectors.
-github.com/clips/dutchembeddings
+https://github.com/clips/dutchembeddings
 
 Training data was assembled from the Lassy Groot corpus.
-let.rug.nl/~vannoord/Lassy/
+http://www.let.rug.nl/~vannoord/Lassy/
 
 Verb matrices are created to be tested on a dataset of relative clauses. This dataset is a loose translation of the one used by Rimmell, Maillard, Polajnar & Clark.
 https://www.repository.cam.ac.uk/handle/1810/256355
