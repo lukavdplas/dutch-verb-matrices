@@ -1,4 +1,4 @@
-# dutch-verb-matrices
+# Dutch verb matrices
 Code used to train verb matrices for use in compositional distributional semantics, created for my thesis in BA Linguistics.
 
 The verb matrices are trained to use the embeddings created by Tulkens, Emmery & Daelemans (2016) as noun vectors.
