@@ -12,21 +12,4 @@ https://www.repository.cam.ac.uk/handle/1810/256355
 
 The trained verb matrices are included, as well as the database of relative clauses used to test them.
 
-Since each python file corresponds to one step in the analysis, it is recommended to keep in mind the order in which these steps were performed when reviewing the code. This order is provided below:
-  *  process-relpron-phrase
-  *  list-verbs
-  *  list-lassy-treebanks
-  *  lassy-search, assemble-vocab
-  *  filter-observations
-  *  create-cooccur-matrix
-  *  sort-cooccur-matrix
-  *  weight-cooccur-matrix
-  *  number-cooccur-matrix
-  *  reduce-cooccur-matrix
-  *  assess-regression-sample-size
-  *  transformargs, numeraltostring
-  *  regression-weights
-  *  train-verbs-index
-  *  train-verbs-testing, argv-correlation
-  *  train-verbs-final
-  *  compare-phrases
+Since each python file corresponds to one step in the analysis, it is recommended to keep in mind the order in which these steps were performed when reviewing the code. See the file-overview document for a comprehensive graph of the structure between the python files. 
