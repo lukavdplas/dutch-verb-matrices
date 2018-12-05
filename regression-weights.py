@@ -1,5 +1,5 @@
 # Imports the frequency of each verb-arg combination as counted in
-# count-cooccurrence.py, and uses that to make a list of sample weights for
+# create-cooccur-matrix.py, and uses that to make a list of sample weights for
 # ridge regression. Weights are calculated as the log of the frequency.
 
 import numpy as np
