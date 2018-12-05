@@ -2,7 +2,7 @@
 # RELPRON database, importing the Phrase class to read the database.
 
 #import corpus processing class
-import process-phrase
+import process-relpron-phrase
 
 #pathnames
 corpuspath = './repron_translation.txt'
