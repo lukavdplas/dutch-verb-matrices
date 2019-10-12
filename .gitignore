@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#experimental files
+compare-phrases-copy.ipynb
+
+#unzipped data
+verbmatrices/
+embeddings/
