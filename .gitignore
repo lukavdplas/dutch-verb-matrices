@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 #experimental files
-compare-phrases-copy.ipynb
+compare-phrases-*
 
 #unzipped data
 verbmatrices/
