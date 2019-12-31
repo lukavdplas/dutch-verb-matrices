@@ -107,5 +107,5 @@ venv.bak/
 compare-phrases-*
 
 #unzipped data
-verbmatrices/
+verbs/
 embeddings/
